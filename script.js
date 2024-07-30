@@ -50,7 +50,7 @@ console.log(`Fjärde element i listan: ${elementNumberFour.textContent}`);
 Klar
 */
 console.log('uppgift 8');
-
+/*
 let myList = document.querySelector(".instructions-list");
 let myArray = myList.children;
 console.log(myArray);
@@ -66,7 +66,10 @@ for (let i=0;i<myArray.length;i++) {
     }
     
 console.log(newArray);
-    
+Klar
+*/ 
+console.log('Receptet Del2');
+console.log('uppgift 1');
 
 
     
